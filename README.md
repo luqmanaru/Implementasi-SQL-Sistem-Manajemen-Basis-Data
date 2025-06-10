@@ -45,5 +45,6 @@ Proyek ini merupakan contoh implementasi SQL untuk sistem manajemen event sederh
 
 ---
 
-**Luqman** 
+**luqmanaru**
+
 sebagai bagian dari pembelajaran Sistem Manajemen Basis Data.
