@@ -45,6 +45,12 @@ Proyek ini merupakan contoh implementasi SQL untuk sistem manajemen event sederh
 
 ---
 
+## 🔧 Cara Menggunakan
+1. Eksekusi file `create_tables.sql` di database Anda.
+2. Tambahkan data contoh menggunakan `sample_data.sql` (opsional).
+
+---
+
 **luqmanaru**
 
 sebagai bagian dari pembelajaran Sistem Manajemen Basis Data.
